@@ -10,7 +10,7 @@
 
 */
 int main() {
-  int array[8][6], max = -51, idmax;
+  int array[8][5], max = -51, idmax;
   srandom(time(NULL));
     printf("Початковий масив:\n");
     for(int i = 0; i < 8; i++){
